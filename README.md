@@ -1,4 +1,5 @@
 Change log
+
 Initial Configuration of Changelog (v1.0.0) 
 
 The project structure was created. Create the first React Native project and specify the folder layout for the types, screens, and components. 
